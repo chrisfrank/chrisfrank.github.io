@@ -4,8 +4,6 @@ body {
   font-style: normal;
   font-size: 1rem;
   line-height: 2rem;
-  /*background: -webkit-linear-gradient(rgba(0,100,200,.05) 1px, white 1px);*/
-  background-color: white;
   background-repeat: repeat;
   background-size: 1rem 1rem;
   margin: 1rem; }
@@ -119,3 +117,7 @@ td, th {
 
 th, tr:nth-child(even) {
   background-color: rgba(0, 0, 0, 0.05); }
+
+body {
+  background-color: #151515;
+  color: #7d7d7d; }

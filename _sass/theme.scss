@@ -1,0 +1,10 @@
+$base-background-color: #151515;
+$base-highlight-color: #cfcfcf;
+$base-font-color: #7d7d7d;
+
+body {
+  background-color: $base-background-color;
+  color: $base-font-color;
+  //background: -webkit-linear-gradient(rgba(0,100,200,.05) 1px, white 1px);
+  //background-color: white;
+}
